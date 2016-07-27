@@ -5,7 +5,7 @@ package com.danghongdang;
  */
 public class Test {
 
-    public static void main() {
+    public static void main(String args[]) {
         String a = "1";
         String sql = "1111" + a;
     }
